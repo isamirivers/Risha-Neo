@@ -1,9 +1,9 @@
 # Risha Neo Font 1.0
 Free display font open for everyone to download :)
 
-[![Download](stuff4github/download.svg)](https://github.com/isamirivers/IsamiRi-Display/tree/main/font)
+[![Download](stuff4github/download.svg)](https://github.com/isamirivers/Risha-Neo/tree/main/font)
 [![Connect CSS](stuff4github/connect.svg)](#connect-css)
-![Font preview](stuff4github/preview.svg)
+![Font preview](stuff4github/preview.png)
 
 ## Connect CSS
 You can easily connect this font to your CSS using the method you prefer:
