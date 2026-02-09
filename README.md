@@ -1,4 +1,4 @@
-# Risha Neo Font 1.0
+# Risha Neo Font 1.1
 Free display font open for everyone to download :)
 
 [![Download](stuff4github/download.svg)](https://github.com/isamirivers/Risha-Neo/tree/main/font)
@@ -21,5 +21,8 @@ p {font-family: "Risha Neo", sans-serif}
 ```
 
 ## Thanks
-I am very thankful to [rsms](https://github.com/rsms) because I made this font with his script for Figma :)
+
+1. 
+
+2. I am very thankful to [rsms](https://github.com/rsms) because I made this font with his script for Figma :)
 https://www.figma.com/community/file/1115382696459820988/Making-a-font-in-Figma
